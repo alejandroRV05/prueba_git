@@ -1,2 +1,3 @@
-"Contenido del nuevo fichero" 
-"Modificaci¢n en la rama master" 
+Contenido del nuevo fichero
+Modificación en la rama master
+Nueva línea en el fichero
